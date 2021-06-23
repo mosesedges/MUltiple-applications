@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      data-testid="count"
+    >
+      0
+    </h1>
+    <button
+      data-testid="btnUp"
+    >
+      Increment
+    </button>
+    <button
+      data-testid="btnDown"
+    >
+      Decrement
+    </button>
+    <button
+      data-testid="btnReset"
+    >
+      Reset
+    </button>
+  </div>
+</DocumentFragment>
+`;
